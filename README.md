@@ -1,4 +1,4 @@
-como texto simple) 👇
+
 
 # Punto de Venta Inteligente
 
