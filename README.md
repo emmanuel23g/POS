@@ -1,8 +1,8 @@
 como texto simple) 👇
 
-# 🛒 Punto de Venta Inteligente
+# Punto de Venta Inteligente
 
-## 📌 Descripción
+## Descripción
 
 Este proyecto consiste en el desarrollo de una aplicación de punto de venta enfocada en mejorar la experiencia de uso en tiendas de abarrotes locales.
 
@@ -10,13 +10,13 @@ El objetivo principal es eliminar la complejidad y el diseño aburrido de los si
 
 ---
 
-## 🎯 Objetivo
+## bjetivo
 
 Crear una solución accesible, intuitiva y eficiente que permita a los usuarios gestionar sus ventas de manera sencilla, sin necesidad de conocimientos técnicos avanzados.
 
 ---
 
-## 👥 Enfoque de Usuario
+## Enfoque de Usuario
 
 La aplicación está diseñada pensando en:
 
@@ -29,7 +29,7 @@ Se busca que cualquier usuario pueda utilizar el sistema sin dificultad, reducie
 
 ---
 
-## 🎨 Diseño y Usabilidad
+## Diseño y Usabilidad
 
 El diseño está enfocado en:
 
@@ -41,7 +41,7 @@ El diseño está enfocado en:
 
 ---
 
-## 🚀 Características
+##  Características
 
 - Sistema de punto de venta sencillo  
 - Interfaz amigable  
@@ -50,7 +50,7 @@ El diseño está enfocado en:
 
 ---
 
-## 🛠 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - HTML  
 - CSS  
